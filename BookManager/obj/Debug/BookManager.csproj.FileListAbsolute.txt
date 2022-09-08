@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\source\M08\BookManager\bin\Debug\BookManager.exe.config
+C:\Users\User\Desktop\source\M08\BookManager\bin\Debug\BookManager.exe
+C:\Users\User\Desktop\source\M08\BookManager\bin\Debug\BookManager.pdb
+C:\Users\User\Desktop\source\M08\BookManager\obj\Debug\BookManager.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\source\M08\BookManager\obj\Debug\BookManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\source\M08\BookManager\obj\Debug\BookManager.Form1.resources
+C:\Users\User\Desktop\source\M08\BookManager\obj\Debug\BookManager.Form2.resources
+C:\Users\User\Desktop\source\M08\BookManager\obj\Debug\BookManager.Form3.resources
+C:\Users\User\Desktop\source\M08\BookManager\obj\Debug\BookManager.Properties.Resources.resources
+C:\Users\User\Desktop\source\M08\BookManager\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\Users\User\Desktop\source\M08\BookManager\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\source\M08\BookManager\obj\Debug\BookManager.exe
+C:\Users\User\Desktop\source\M08\BookManager\obj\Debug\BookManager.pdb
