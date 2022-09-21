@@ -75,7 +75,7 @@ namespace BookManager
             else
             {
             Add_or_Delete(textBox1.Text, textBox2.Text, textBox3.Text, textBox4.Text, "insert");
-            WriteLog("[책 추가] 책 코드 : " + textBox1.Text + " 책명 :" + textBox2.Text + "출판사 : ");
+            WriteLog("[책 추가] 책 코드 : " + textBox1.Text + " 책명 :" + textBox2.Text + "출판사 : " + textBox3.Text);
             }
         }
 
@@ -83,7 +83,7 @@ namespace BookManager
         private void button3_Click(object sender, EventArgs e)
         {
             Add_or_Delete(textBox1.Text, textBox2.Text, textBox3.Text, textBox4.Text, "delete");
-            WriteLog("[책 삭제] 책 코드 : " + textBox1.Text + " 책명 :" + textBox2.Text + "출판사 : ");
+            WriteLog("[책 삭제] 책 코드 : " + textBox1.Text + " 책명 :" + textBox2.Text + "출판사 : " + textBox3.Text);
         }
 
         //수정
@@ -96,7 +96,7 @@ namespace BookManager
             else
             {
                 Add_or_Delete(textBox1.Text, textBox2.Text, textBox3.Text, textBox4.Text, "update");
-                WriteLog("[책 수정] 책 코드 : " + textBox1.Text + " 책명 :" + textBox2.Text + " 출판사 : ");
+                WriteLog("[책 수정] 책 코드 : " + textBox1.Text + " 책명 :" + textBox2.Text + " 출판사 : " + textBox3.Text);
             }
         }
 
